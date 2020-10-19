@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = facundolanus@gmail.com
+	email = facundolanus@gmail.co
 	name = Facundo Lanus
